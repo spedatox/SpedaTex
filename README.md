@@ -1,6 +1,6 @@
 # SpedaTex Tool
 
-This repository contains a GUI-based tool (SpedaTex.py) for converting .png files to .dds files and optionally packaging them into .texture files using SilkTexture.
+This repository contains a GUI-based tool (SpedaTex.py) for converting .png files to .dds files and optionally packaging them into .texture files using SilkTexture. Tailored for Marvel's Spider-Man 2 PC
 
 ## Features
 - Batch conversion of PNG images to DDS via NVIDIA Texture Tools (nvtt_export).
